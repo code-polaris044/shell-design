@@ -1,3 +1,5 @@
 # Ignore .DS_Store files in all directories
 **/.DS_Store
 /logs
+app/.DS_Store
+app/bedrock/.DS_Store
